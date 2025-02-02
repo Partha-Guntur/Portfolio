@@ -3,7 +3,7 @@
 
 #### Technical Skills: Python, C, C++, MS Excel, Tableu, Power Bi, Data Analysis, Machine Learning, ConAdvanced Neural Networks, Generative AI, Adversal Networks, SQL, Data Visualization, Data Mining, PySpark, Flask, Front End Development
 
-## Education	        		
+## Education
 - B.Tech., Computer Science and Engineering (Aritificial Intelligence and Machine Learning) | Sri Ramachandra Institute of Higher Education and Research (August 2021)
 
 ## Work Experience
