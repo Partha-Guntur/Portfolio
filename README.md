@@ -1,5 +1,5 @@
 ## Data Scientist and Machine Learning Engineer
-# Projects and Achievments
+# Projects and Work Experience
 
 #### Technical Skills: Python, C, C++, MS Excel, Tableu, Power Bi, Data Analysis, Machine Learning, ConAdvanced Neural Networks, Generative AI, Adversal Networks, SQL, Data Visualization, Data Mining, PySpark, Flask, Front End Development
 
@@ -24,23 +24,21 @@ Patient Detail Extraction Using NLP techniques and storing the information in Kn
 Patient Detail Extraction Using NLP and Storing it in the form of Knowledge Graphs Building an user-interface for the Examiner to examine the patient details and store it as Query.
 
 
-### Text Extraction using NLP
-[Project Repo](https://github.com/Partha-Guntur/Text-Extraction-using-NLP.git)
+### Stock Market Analysis and Prediction using Bidirectional LSTM Model
+[Project Repo](https://github.com/Partha-Guntur/BiLSTM-Stock-Market-Analysis.git)
 
-Patient Detail Extraction Using NLP techniques and storing the information in Knowledge Graphs. Built a user-interface for the Examiner to store patient details, using Flask. It is built for extracting useful information to find the similar patients with same disease or problem can get particular diagnosis and dosage, which wouldn’t cost computational resources.
-Patient Detail Extraction Using NLP and Storing it in the form of Knowledge Graphs Building an user-interface for the Examiner to examine the patient details and store it as Query.
+The primary goal of this project is to harness the power of deep learning to forecast the future values of major Indian stock market indexes such as the BSE SENSEX and NSE NIFTY 50. A BiLSTM network is employed to model the sequence of historical price data, taking into account both past and future contexts effectively. The React frontend provides an intuitive interface for users to interact with the predictions. This project aims to predict the movement of Indian stock market indexes for a 5 year Market only on Nifty50 Stock Index, using a Bidirectional Long Short-Term Memory (BiLSTM) model. The predictions are displayed on an interactive React page, allowing users to view forecasts in real time.
 
-### Text Extraction using NLP
-[Project Repo](https://github.com/Partha-Guntur/Text-Extraction-using-NLP.git)
 
-Patient Detail Extraction Using NLP techniques and storing the information in Knowledge Graphs. Built a user-interface for the Examiner to store patient details, using Flask. It is built for extracting useful information to find the similar patients with same disease or problem can get particular diagnosis and dosage, which wouldn’t cost computational resources.
-Patient Detail Extraction Using NLP and Storing it in the form of Knowledge Graphs Building an user-interface for the Examiner to examine the patient details and store it as Query.
+### Medical Assistance Chatbot
+[Project Repo](https://github.com/Partha-Guntur/Medical-Assistance-Chatbot.git)
 
-### Text Extraction using NLP
-[Project Repo](https://github.com/Partha-Guntur/Text-Extraction-using-NLP.git)
+The puprose of this Chatbot is to answer complex Medical questions, a patient or a student might have.Using BERT Model, and adding an extra LSTM layer, fine tuning it with a Hugging Face Medical Q&A dataset. The purpose of this Chatbot is to answer complex Medical questions, can be used or refered by students/public users anyone. The purpose of this project was to create an auto answering and self-aware interface, for answering complex medical questions, which a patient or student might have. Fine-tuning BERT model, and Using Hugging Face medical Q&A dataset.
 
-Patient Detail Extraction Using NLP techniques and storing the information in Knowledge Graphs. Built a user-interface for the Examiner to store patient details, using Flask. It is built for extracting useful information to find the similar patients with same disease or problem can get particular diagnosis and dosage, which wouldn’t cost computational resources.
-Patient Detail Extraction Using NLP and Storing it in the form of Knowledge Graphs Building an user-interface for the Examiner to examine the patient details and store it as Query.
+### News Sentiment Analysis
+[Project Repo](https://github.com/Partha-Guntur/News-Analysis-Web-Scrapping.git)
+
+This project aims to extract news data from a website using BeautifulSoup, clean and preprocess the extracted data using NLTK, perform sentiment analysis to determine if the news is good or bad, and store the results in an Excel file. The purpose of this project is to automate the process of extracting news articles, cleaning and preprocessing the text data, analyzing the sentiment of the news articles, and saving the results in an organized manner. The sentiment analysis helps to categorize the news as either positive (good) or negative (bad).
 
 
 
