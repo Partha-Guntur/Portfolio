@@ -11,10 +11,15 @@
 - Had worked on Analyzing Credit & Loan Defaulters, in which we had access to real-time data from American Finance Company.
 - built a pipeline for a little bit diverse and based on strong ML foundation, Overlook the Dataset from MS Excel, Apply Power query and filter the data, Data Cleaning, Data Pre-processing, Feature Engineering and Hyperparameter Tuning, building a Classification and Regressive Models, apply Bagging and Boosting Techniques, model evaluation, then perform necessary visualizations.
 
-**AI Research Intern @ Nova Automata Pvt. (_Nov 2024 – Present_)**
+**AI Research Intern @ Nova Automata Pvt. (_Nov 2024 – Feb 2025_)**
 - Working on AI projects, where we are required to build RAG models, been improving to learn new content related to Large Language Models and Generative Adversarial Networks.
 - I am trying to work on an important Text corpus dataset, constantly trying to improve the model's accuracy. We are currently building a demo LLM architecture, which is quite complicated and time consuming, but would achieve great results.
 - It is quite interesting and also an important project which I'm currently working on.
+
+** Machine Learning Engineer @ Quixy (_March 2025 – Present_)**
+- I am working on Agentic AI, developing models that leverage LLM calls to perform autonomous data analysis, including data cleaning, exploratory analysis, trend identification, and report generation, enabling AI-driven decision-making with minimal human intervention.
+
+
 
 ## Projects
 ### Text Extraction using NLP
