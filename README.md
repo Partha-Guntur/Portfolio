@@ -1,9 +1,10 @@
 ## Data Scientist and Machine Learning Engineer
 # Projects and Work Experience
 
-#### Technical Skills: Python, C, C++, MS Excel, Tableu, Power Bi, Data Analysis, Machine Learning, Advanced Neural Networks, Generative AI, Adversal Networks, SQL, Data Visualization, Data Mining, PySpark, Front End Development
+#### Technical Skills: Python, C, C++, MS Excel, Tableu, Power Bi, Data Analysis, Machine Learning, Advanced Neural Networks, Generative AI, Adversal Networks, SQL, Data Visualization, Data Mining, Bloomberg Terminal
 
 ## Education
+- Masters in Quantitative Finance, Ahmedabad University (July 2025 - Present)
 - B.Tech., Computer Science and Engineering (Aritificial Intelligence and Machine Learning) | Sri Ramachandra Institute of Higher Education and Research (August 2021)
 
 ## Work Experience
