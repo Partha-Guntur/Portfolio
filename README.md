@@ -1,7 +1,7 @@
 ## Data Scientist | Quant Finance | Equity Research | Indian Markets
 # Projects and Work Experience
 
-#### Technical Skills: Python, C, C++, MS Excel, Tableu, Power Bi, Data Analysis, Machine Learning, Advanced Neural Networks, Generative AI, Adversal Networks, SQL, Data Visualization, Data Mining, Bloomberg Terminal
+#### Technical Skills: Python, C, C++, MS Excel, Data Analysis, Machine Learning, SQL, Data Mining, Bloomberg Terminal, Equity Analysis
 
 ## Education
 - Masters in Quantitative Finance, Ahmedabad University (July 2025 - Present)
