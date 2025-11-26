@@ -17,8 +17,14 @@
 - I am trying to work on an important Text corpus dataset, constantly trying to improve the model's accuracy. We are currently building a demo LLM architecture, which is quite complicated and time consuming, but would achieve great results.
 - It is quite interesting and also an important project which I'm currently working on.
 
-**Machine Learning Engineer @ Quixy (_March 2025 – Present_)**
-- I am working on Agentic AI, developing models that leverage LLM calls to perform autonomous data analysis, including data cleaning, exploratory analysis, trend identification, and report generation, enabling AI-driven decision-making with minimal human intervention.
+**Machine Learning Engineer @ Quixy (_March 2025 – July 2025_)**
+- Banas Diary Procurement Data Analysis and Building Automated Dashboard, During my internship at Vividminds, I developed and optimized machine learning models that automated data analysis and forecasting for business clients.
+- I worked extensively on agentic AI systems integrating Large Language Models (LLMs) to perform autonomous data cleaning, exploratory
+analysis, and report generation.
+One major outcome was building a forecasting tool for Banas Dairy to predict milk procurement volumes, improving accuracy and decision
+efficiency.
+The experience enhanced my skills in applied AI, data handling, and business problem-solving while teaching me to manage complex
+datasets, collaborate in team environments, and deliver solutions under tight project deadlines.
 
 
 
